@@ -17,11 +17,7 @@ SET
 WHERE
     Budget <= 300;​
 
-PDATE CLUB
-SET
-    Budget  =  Budget * 1.2
-WHERE
-   Budget > 700
+
 
 /*
 3 row(s) updated. 0.00 seconds
